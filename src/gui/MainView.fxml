@@ -27,5 +27,6 @@
             </MenuBar>
          </children>
       </VBox>
+      
    </content>
 </ScrollPane>
